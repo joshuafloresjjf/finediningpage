@@ -1,3 +1,7 @@
+.app__chef{
+    background:  #232323 ;
+}
+
 .app__chef-content{
     display : flex;
     flex-direction: column;

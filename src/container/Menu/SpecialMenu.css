@@ -75,6 +75,12 @@
     .app__specialMenu-menu_img{
         width:100%;
         
+        
+    }
+    .app__specialMenu-menu_img img{
+        width:100%;
+        height:auto;
+        
     }
   .app__specialMenu-menu_heading{
     font-size: 35px;

@@ -1,3 +1,7 @@
+.app__laurels{
+    background-color: black;
+}
+
 .app__laurels_awards{
     display: flex;
     justify-content: flex-start;

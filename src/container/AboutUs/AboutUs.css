@@ -1,5 +1,6 @@
 .app__aboutus {
     position: relative;
+    /* background-color: #232323 ; */
 }
 
 .app__aboutus-overlay {
@@ -68,6 +69,7 @@
 
 @media screen and (max-width: 900px) {
 
+   
     .app__aboutus-content {
         flex-direction: column;
     }
