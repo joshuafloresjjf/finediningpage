@@ -11,7 +11,7 @@
 This was created using React and CSS 
 
 ## Live site
- https://spoogh.github.io/finediningpage/
+ https://joshuafloresjjf.github.io/finediningpage/
 
 
 
